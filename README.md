@@ -117,10 +117,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+This project can be used for simple vanding machine with 2 payment method option, paywave & QR code.
 
 
 <!-- ROADMAP -->
@@ -153,23 +150,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+* Project Link: [https://github.com/zulhafiy/vending-mac-group1](https://github.com/zulhafiy/vending-mac-group1)
 
-Project Link: [https://github.com/zulhafiy/vending-mac-group1](https://github.com/zulhafiy/vending-mac-group1)
+* Project Manager		: [Zulhafiy bin Zolkipli](https://github.com/zulhafiy)
 
-Project Manager		: [Zulhafiy bin Zolkipli](https://github.com/zulhafiy)
+* Programmer 		: [Mohd Fahmi Bin Abdullah](https://github.com/FamyAvantgarde)
 
-Programmer 		: [Mohd Fahmi Bin Abdullah](https://github.com/FamyAvantgarde)
+* UI Designer		: [Nazirah Mohd Razali](https://github.com/nazirah46)
 
-UI Designer		: [Nazirah Mohd Razali]()
-
-Tester			: [Andi Azamuddin bin Andianwar](https://github.com/aazamuddin4)
+* Tester			: [Andi Azamuddin bin Andianwar](https://github.com/aazamuddin4)
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* Instructor [Fairoza Amira Binti Hamzah](https://github.com/FairozaAmira)
+* Instructor  : [Fairoza Amira Binti Hamzah](https://github.com/FairozaAmira)
 
 
 
